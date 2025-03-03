@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/JoeKo1/JoeKo1/blob/main/assets/Name.png)
 
 About me
 
