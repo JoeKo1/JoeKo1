@@ -7,7 +7,9 @@
 
 # Certificates
 
-<a href="https://drive.google.com/drive/folders/11JqmKK3Tg6arnvEJqNkaXmwz_UoB-2XX?usp=sharing">View certificates</a>
+<a href="https://drive.google.com/drive/folders/11JqmKK3Tg6arnvEJqNkaXmwz_UoB-2XX?usp=sharing" target="_blank">View certificates</a>
+<br>
+<a href="https://docs.google.com/spreadsheets/d/16k4hWKl1JUkCnmNDl3Ala0vGMr2_Zt3eUx7M2X6o2dU/edit?usp=sharing" target="_blank">Checklist</a>
 
 # Tools and Apps
 
